@@ -7,6 +7,7 @@
     - CSS3
     - Bootstrap
     - JavaScript
+    - Vue.js (Pinia for the state management, local session and storage session)
 
   ### _**APIs:**_
     - RESTful API (only when needed)
@@ -22,5 +23,12 @@
     - Microsoft SQL Server 2008, (ANSI NULLS ON)
     - Microsoft Visual Studio 2022 Edition
     - Windows IIS (Internet Information Services), as it was designed to run over **localhost**
+
+  ### _**Software Engineering principles and concepts applied to the project:**_
+    - SOLID Principles.
+    - OOP pilars (objects/classes, abstraction, encapsulation, correct separation of concerns, inheritance & polymorphism)
+    - KISS (Keep It Simple Stupid)
+    - DRY (Don't Repeat Yourself)
+    - ACID (Atomicity, Consistency, Isolation & Durability - for the design and implementation of the database logic and its schemas)
 
 ## Copyright © 2025. All right reserved. Ignacio Julián Castro Centeno.
